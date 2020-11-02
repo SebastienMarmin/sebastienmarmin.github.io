@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Site Title
+title: Sébastien Marmin
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Sébastien Marmin
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Research engineer in statistics"
+  email: marmin-publicAROBASEmailbox.org
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: seb_marmin
   linkedin: #username
-  github: #username
+  github: sebastienmarmin
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-148758032-1
     verify:
-    scholar: #id
+    scholar: qg1G9rQAAAAJ
   facebook: #username
   instagram: #username
   bing-verify:
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#fff033'
+lowlight-color: '#ffbd33'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
@@ -71,4 +71,4 @@ kramdown:
   enable_coderay: false
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "any_additional_item"]
