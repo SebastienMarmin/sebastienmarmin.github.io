@@ -11,7 +11,7 @@ My research focuses on probabilistic methods for machine learning, combining unc
 
 
 I was previously a research assistant in the [*machine learning group*](http://www.eurecom.fr/fr/la-recherche/departement-data-science) of EURECOM with Prof. [Maurizio Filippone](http://www.eurecom.fr/~filippon/).
-I obtained my PhD from the [Bern mathematical statistics group](https://www.imsv.unibe.ch/index_eng.html "Institute of Mathematical Statistics and Actuarial Science"), jointly with [Centrale Marseille](https://recherche.centrale-marseille.fr/en) and funded by the [National Expert Service in Nuclear Safety](https://www.irsn.fr/EN/Presentation/about_us/Pages/who_are_we.aspx).
+I obtained my PhD from the [Bern mathematical statistics group](https://www.imsv.unibe.ch/index_eng.html "Institute of Mathematical Statistics and Actuarial Science") (Prof. [David Ginsbourger](http://www.ginsbourger.ch/)), jointly with [Centrale Marseille](https://recherche.centrale-marseille.fr/en) and funded by the [National Expert Service in Nuclear Safety](https://www.irsn.fr/EN/Presentation/about_us/Pages/who_are_we.aspx).
 
 
 I tought Gaussian Process models and supervised student projects in data science within [Maurizio Filippone](http://www.eurecom.fr/~filippon/)'s course on [Advanced Statistical Inference](http://www.eurecom.fr/en/course/ASI-2019Spring).
