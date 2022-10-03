@@ -16,11 +16,3 @@ I obtained my PhD from the [Bern mathematical statistics group](https://www.imsv
 
 I tought Gaussian Process models and supervised student projects in data science within [Maurizio Filippone](http://www.eurecom.fr/~filippon/)'s course on [Advanced Statistical Inference](http://www.eurecom.fr/en/course/ASI-2019Spring).
 
-
-Job offer at LNE
-==========
-
-
-[Data scientist - Statistician (M/F) at Trappes, Paris urban area](/Data_scientist_LNE.pdf).
-
-
